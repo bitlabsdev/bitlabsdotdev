@@ -4,4 +4,4 @@ layout: home
 permalink: /
 ---
 
-Ƀitlabs
+Contributing to decentralised ecosystems.
