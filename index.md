@@ -1,7 +1,7 @@
 ---
-title: Ƀitlabs
+title: /home
 layout: home
 permalink: /
 ---
 
-Contributing to decentralised ecosystems.
+Ƀitlabs is contributing to decentralised ecosystems.
